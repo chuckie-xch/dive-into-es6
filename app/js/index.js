@@ -8,4 +8,4 @@
 
 // document.body.innerHTML = test.a
 
-import './class/lession2'
+import './class/lession3'
