@@ -8,4 +8,5 @@
 
 // document.body.innerHTML = test.a
 
-import './class/lession3'
+import 'babel-polyfill';
+import './class/lession4'
